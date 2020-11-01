@@ -1,0 +1,95 @@
+
+body {
+  font-family: 'Fira Sans', sans-serif;
+  color: whitesmoke;
+
+  .container {
+    background-color: #2F9BFA;
+    width: 17.5%;
+    margin: 10px;
+    padding: 10px 20px 1px;
+    border: 7px solid lightgrey;
+
+    .users .views .pages {
+      width: 90%;
+      text-align: left;
+      margin-left: 15px;
+      /*padding: 5px;*/
+      /*border: 3px solid black;*/
+    }
+
+    .users {
+      p {
+        margin-bottom: 1px;
+      }
+
+      h1 {
+        font-size: 50px;
+        margin-top: 5px;
+      }
+    }
+
+    .pages {
+      .pages-title {
+        margin-bottom: 0px;
+      }
+
+      img {
+        height: auto;
+        width: 100%;
+        //display: block;
+        padding-bottom: 20px;
+      }
+
+      table {
+        width: 100%;
+        margin-bottom: 20px;
+
+        tr {
+          th {
+            text-align: left;
+            //padding: 10px 1px;
+            //border-bottom: 1px solid whitesmoke;
+            //width: 100%;
+          }
+
+          .thr {
+            text-align: right;
+            //width: 100%;
+          }
+
+          td {
+            padding: 10px 1px;
+            border-top: 1px solid whitesmoke;
+            border-collapse: collapse;
+            //width: 100%;
+            /*text-align: left;*/
+          }
+
+          .user-count {
+            text-align: right;
+          }
+        }
+      }
+
+      hr {
+        /*border-collapse: collapse;*/
+        height: 1px;
+        border: 0;
+        color: whitesmoke;
+        background-color: whitesmoke;
+        width: 100%;
+      }
+    }
+
+    footer {
+      border-top: 1px solid whitesmoke;
+      //width:100%;
+      text-align: right;
+    }
+  }
+}
+
+
+
+
