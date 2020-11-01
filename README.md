@@ -1,5 +1,6 @@
 # css-integration
-https://ziges.github.io/css-integration/
+[Interface 1](https://ziges.github.io/css-integration/)
+[Interface 2](https://ziges.github.io/css-integration/)
 
 ## The challenge
 For this exercise we are challenged to consolidate our CSS knowledge by building two full CSS integrations in the form of interfaces. 
@@ -16,7 +17,7 @@ In the second integration exercise I used box-standard css to style the containe
 It was very tricky to achieve the exact pixel perfect layouts as required. I got very close, except for the HR line which in a < tr > tag I was unable to draw 
 the entire line without splits. 
 
-With hindsight, it may have been a better idea to work with a utility framework like Tailwind.
+With hindsight, it may have been a better idea to work with a CSS utility framework like Tailwind.
 
 
 
