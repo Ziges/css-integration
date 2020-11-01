@@ -1,7 +1,5 @@
 # css-integration
-[Interface 1](https://ziges.github.io/css-integration/)
-
-[Interface 2](https://ziges.github.io/css-integration/)
+[View interfaces](https://ziges.github.io/css-integration/)
 
 ## The challenge
 For this exercise we are challenged to consolidate our CSS knowledge by building two full CSS integrations in the form of interfaces. 
