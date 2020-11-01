@@ -1,0 +1,18 @@
+/*!*CSS reset https://cssreset.com/scripts/html5-doctor-css-reset-stylesheet/#the-scripts*!*/
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin: 10px;
+    padding: 5px;
+    background-color: lightskyblue;
+    height: 70px;
+    line-height: 70px;
+    color: indianred;
+}
+
+
+
