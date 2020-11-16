@@ -1,0 +1,54 @@
+
+body {
+  font-family: 'Noto Sans JP', sans-serif;
+
+  p {
+    margin-top: 3px;
+    color: grey;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
+
+  .container {
+    //width:30%;
+    margin: auto;
+
+    .image-1 {
+      width: 17.5%;
+      height: auto;
+      float: left;
+      margin-right: 30px;
+    }
+
+    h2 {
+      padding-top: 10px;
+      margin-bottom: 0px;
+    }
+
+    .profile {
+      margin-top: 70px;
+      text-align: left;
+
+      .image-2 {
+        border-radius: 50%;
+        float: left;
+        width: 4%;
+        height: auto;
+      }
+
+      .name {
+        color: black;
+        font-weight: 500;
+        margin-bottom: 1px;
+      }
+
+      .icon {
+
+      }
+    }
+
+  }
+}
+
+
+
