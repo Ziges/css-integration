@@ -19,4 +19,11 @@ the entire line without splits.
 With hindsight, it may have been a better idea to work with a CSS utility framework like Tailwind.
 
 
+### Interface 3
+The third integration exercise looked simple at first, yet it was anything but. For this challenge I sed the main image in a container div element 
+floated to the left, that way I could simply add my content to the right of the image. This worked but with hindsight I may have been better off using the flexbox display 
+structure, with 2 columns, which would have save me time and allowed me to add a border around the content which unfortunately now isn't possible or all my content disperses over the page. 
+
+All that said, it's all about learning and choosing the right tactics from the get-go in order to save time. 
+
 
